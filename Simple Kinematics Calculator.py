@@ -1,6 +1,6 @@
 # All code created by me
 
-# List of dictionary keys, lets each key has a index
+# List of dictionary keys, lets each key have a index
 variables = ("displacement", "velocity final", "velocity initial", "time", "acceleration")
 # Dict of known variables. variables that is unneeded/unknown will have an assigned value "n_a"
 known_variables = {"displacement": "n_a", "velocity final": "n_a", "velocity initial": "n_a", "time": "n_a",
